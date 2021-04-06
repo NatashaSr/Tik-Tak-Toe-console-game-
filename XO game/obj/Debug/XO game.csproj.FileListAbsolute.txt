@@ -1,0 +1,7 @@
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\bin\Debug\XO game.exe.config
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\bin\Debug\XO game.exe
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\bin\Debug\XO game.pdb
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\obj\Debug\XO game.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\obj\Debug\XO game.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\obj\Debug\XO game.exe
+C:\Users\Natas\Desktop\XO game\XO game- C#\XO game\XO game\obj\Debug\XO game.pdb
